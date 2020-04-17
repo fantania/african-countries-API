@@ -1,1 +1,1 @@
-# african-countries-API
+# african-countries-REST-API
